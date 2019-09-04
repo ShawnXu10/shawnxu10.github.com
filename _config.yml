@@ -1,5 +1,5 @@
 # Site settings
-title:
+title: Xiangyu's Computer Vision lap
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,8 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
+owner: Xiangyu Xu
+email: xxu24@stevens.edu
 facebook_username:
 twitter_username:
 github_username:
