@@ -20,19 +20,23 @@ layout: compress
 
     <div class="hero--small">
       <div class="hero__wrap">
-        <h1 class="hero__title">{{ page.title }}</h1>
+        <h1 class="hero__title">My real life</h1>
       </div>
     </div>
+
     <main class="site__content">
+      <section class="blog">
+        <div class="container">
+          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-      <div class="container">
-        <div class="page-content">
+            {% for post in site.lifeblog %}
+              {% include card.html %}
+            {% endfor %}
 
-          {{ content }}
-
+            <!-- {% include pagination.html %} -->
+          </div>
         </div>
-      </div>
-
+      </section>
     </main>
 
     {% include footer.html %}
