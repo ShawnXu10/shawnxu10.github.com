@@ -5,6 +5,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: lifeblog
-title: My life time
+title: My time
 permalink: /lifeblog/
 ---
