@@ -6,6 +6,8 @@ featured-img: DLOE_header
 
 ---
 
+![](https://raw.githubusercontent.com/ShawnXu10/shawnxu10.github.com/master/assets/img/posts/DLOE/abstract.jpg)
+
 ## Table of Contents  
 [Abstract](#abstract)    
 
