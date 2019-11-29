@@ -19,7 +19,8 @@ We present a general paradigm for dynamic 3D reconstruction from multiple indepe
 
 ![](https://raw.githubusercontent.com/ShawnXu10/shawnxu10.github.com/master/assets/img/posts/DLOE/experiments.jpg)
 
-Resource
+<a name="resource"/>
+##Resource
 Publication(Accepted at ICCV 2019 as an oral presentation)
 X. Xu and E. Dunn. Discrete Laplace operator estimation for dynamic 3D reconstruction. In Proceedings of the IEEE International Conference on Computer Vision, pages 1548-1557, 2019 (Oral)
 
