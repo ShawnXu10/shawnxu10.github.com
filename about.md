@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About Me[[CV]](https://github.com/ShawnXu10/shawnxu10.github.com/blob/master/Xiangyu%20Xu.pdf)
 permalink: /about/
 ---
 
