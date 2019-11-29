@@ -8,7 +8,7 @@ featured-img: emile-perron-190221
 
 From [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-##### Table of Contents  
+## Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
 [Lists](#lists)  
@@ -22,40 +22,10 @@ From [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdow
 [Line Breaks](#lines)  
 [Youtube videos](#videos)  
 
-<a name="headers"/>
-## Headers
+<a name="abstract"/>
+## Abstract
 
-```no-highlight
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
-```
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
+We present a general paradigm for dynamic 3D reconstruction from multiple independent and uncontrolled image sources having arbitrary temporal sampling density and distribution. Our graph-theoretic formulation models the spatio-temporal relationships among our observations in terms of the joint estimation of their 3D geometry and its discrete Laplace operator. Towards this end, we define a tri-convex optimization framework that leverages the geometric properties and dependencies found among a Euclidean shape-space and the discrete Laplace operator describing its local and global topology. We present a reconstructability analysis, experiments on motion capture data and multi-view image datasets, as well as explore applications to geometrybased event segmentation and data association.
 
 <a name="emphasis"/>
 ## Emphasis
